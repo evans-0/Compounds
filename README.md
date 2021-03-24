@@ -1,3 +1,5 @@
 # Compounds
 
-Download avogadro app from: https://avogadro.cc/
+3D molecule structures. Download the avogadro app and open these in it.
+
+Download the avogadro app from: https://avogadro.cc/
