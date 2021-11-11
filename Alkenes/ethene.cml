@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<molecule xmlns="http://www.xml-cml.org/schema" xmlns:cml="http://www.xml-cml.org/dict/cml" xmlns:units="http://www.xml-cml.org/units/units" xmlns:xsd="http://www.w3c.org/2001/XMLSchema" xmlns:iupac="http://www.iupac.org">
+  <atomArray>
+    <atom id="a1" elementType="C" x3="-3.07463" y3="1.0313" z3="-7.93934e-07" />
+    <atom id="a2" elementType="H" x3="-0.154614" y3="0.687076" z3="0.816085" />
+    <atom id="a3" elementType="C" x3="-0.703598" y3="1.10841" z3="0" />
+    <atom id="a4" elementType="H" x3="-0.183148" y3="1.56452" z3="-0.816085" />
+    <atom id="a5" elementType="H" x3="-3.59508" y3="0.57519" z3="0.816084" />
+    <atom id="a6" elementType="H" x3="-3.62361" y3="1.45263" z3="-0.816086" />
+  </atomArray>
+  <bondArray>
+    <bond atomRefs2="a3 a2" order="1" />
+    <bond atomRefs2="a1 a3" order="2" />
+    <bond atomRefs2="a3 a4" order="1" />
+    <bond atomRefs2="a1 a5" order="1" />
+    <bond atomRefs2="a1 a6" order="1" />
+  </bondArray>
+</molecule>
